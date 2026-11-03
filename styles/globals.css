@@ -52,7 +52,7 @@ input {
   justify-content: center;
   min-height: 100vh;
   padding: 1rem;
-  background-color: transparent;
+  background-color: #2563eb; /* Tailwind blue-600 – default blue background */
 }
 
 /* White, centered card for login */
